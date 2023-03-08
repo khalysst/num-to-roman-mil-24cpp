@@ -1,7 +1,7 @@
 # C++ Conversion of Numbers to Roman and Military to 24 Hours
 
 <p>
-This is my first laboratory activity, so do note the code inconsistencies. </br>
+This was one of my first laboratory activities, so do note the code inconsistencies. </br>
 This C++ program runs on user input. For the conversion of numbers to roman numerals, it will ask for numbers ranging from 1 to 3000. </br>
 On the other hand, for the conversion of military to 24 hours, it will only permit military style numbers. </br>
 
